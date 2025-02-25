@@ -1,16 +1,37 @@
-## Hi there 👋
+## Ciao a tutti 👋
+Sono Maria, una sviluppatrice junior appassionata di tecnologia e programmazione. 🚀 <br/>
+Mi dedico allo sviluppo web full-stack, con un'attenzione particolare alla creazione di servizi REST API in Java con Spring Boot 💻
 
-<!--
-**maryparp/maryparp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologie e Strumenti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Front-end
+
+HTML, CSS, JavaScript
+
+### ⚙️ Back-end
+
+Java, Spring Boot
+
+### 🗄️ Database
+
+MySQL
+
+### 🛠️ Strumenti e Workflow
+
+Git, GitHub
+
+IntelliJ IDEA, VS Code
+
+## 📌 Cosa troverai nei miei repository?
+
+➡️ Project Work "Code Blossom" 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻
+
+➡️ Esercizi e sperimentazioni per approfondire nuove tecnologie 🚧 🛠️ ⏳
+
+<img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+
+<blockquote>Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre. <br/> Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨ </blockquote>
+
+## 📫 Contattami
+Se vuoi scambiare idee o collaborare, sentiti libero/a di scrivermi!
