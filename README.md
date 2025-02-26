@@ -39,15 +39,16 @@ Mi piace dedicarmi allo sviluppo web **full-stack**, con un'attenzione particola
 </div>      
 
 
-
-
 ## 📌 Cosa troverai nei miei repository?
 
 ➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻
 
 ➡️ **Esercizi e sperimentazioni** per approfondire nuove tecnologie 🚧 🛠️ ⏳
 
-![Learning](https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif)
+<div style="text-align: center;">
+    <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+</div>
+
 
 > Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre.  
 > Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨
