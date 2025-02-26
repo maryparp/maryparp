@@ -13,6 +13,8 @@ Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazio
 - ⚡ TypeScrip
 - 🔥 Node.js
 
+
+
 ## 🔧 Tecnologie e Strumenti
 
 ### 🌐 Front-end
