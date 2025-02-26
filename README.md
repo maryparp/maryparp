@@ -7,7 +7,7 @@
 ![Hello](https://i.postimg.cc/fyZFpWX9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c62.gif)
 
 
-Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazione. 🚀  Mi piace dedicarmi allo sviluppo web **full-stack**, con un'attenzione particolare alla creazione di servizi **REST API** in Java con **Spring Boot** 💻
+Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazione. 🚀 <br/> Mi piace dedicarmi allo sviluppo web **full-stack**, con un'attenzione particolare alla creazione di servizi **REST API** in Java con **Spring Boot** 💻
 
 📚 Per approfondire lo sviluppo full-stack, attualmente mi sto dedicando:
 - ⚡ TypeScrip
