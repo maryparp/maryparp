@@ -1,4 +1,4 @@
-# Ciao a tutti 👋
+# Namasté 🙏
 ![Java Developer Badge](https://img.shields.io/badge/Java-Developer-brightgreen)
 ![Frontend Badge](https://img.shields.io/badge/Frontend-Developer-orange)
 ![Backend Badge](https://img.shields.io/badge/Backend-Developer-green)
