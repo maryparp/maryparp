@@ -60,3 +60,7 @@ Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazio
 
 ## 📫 Contattami
 Se vuoi scambiare idee o collaborare, sentiti libero/a di scrivermi!
+
+- ✉️ [Email](mailto:marypp.work@gmail.com)
+- 📱 [Telegram](https://t.me/maryparp)
+
