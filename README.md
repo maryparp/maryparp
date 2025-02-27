@@ -10,7 +10,7 @@
 Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazione. 🚀 <br/> Mi piace dedicarmi allo sviluppo web **full-stack**, con un'attenzione particolare alla creazione di servizi **REST API** in Java con **Spring Boot** 💻
 
 📚 Per approfondire lo sviluppo full-stack, attualmente mi sto dedicando:
-- ⚡ TypeScrip
+- ⚡ TypeScript
 - 🔥 Node.js
 
 
