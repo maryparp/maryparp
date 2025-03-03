@@ -7,7 +7,8 @@
 ![Hello](https://i.postimg.cc/fyZFpWX9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c62.gif)
 
 
-Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazione. 🚀 <br/> Mi piace dedicarmi allo sviluppo web **full-stack**, con un'attenzione particolare alla creazione di servizi **REST API** in Java con **Spring Boot** 💻
+Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazione. 🚀 <br/>  con un'attenzione particolare alla creazione di servizi **REST API** in Java con **Spring Boot**
+Mi piace dedicarmi allo sviluppo web **full-stack**  💻
 
 📚 Per approfondire lo sviluppo full-stack, attualmente mi sto dedicando:
 - ⚡ TypeScript
@@ -47,6 +48,7 @@ Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazio
 ## 📌 Cosa troverai nei miei repository?
 
 ➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻 | [Guarda il video](https://player.vimeo.com/video/1062093254)
+
 ➡️ **Esercizi e sperimentazioni** per approfondire nuove tecnologie 🚧 🛠️ ⏳
 
 <div style="text-align: center;">
