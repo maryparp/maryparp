@@ -47,16 +47,8 @@ Sono una **sviluppatrice java junior** appassionata di tecnologia e programmazio
 ## 📌 Cosa troverai nei miei repository?
 
 ➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻
-<iframe src="https://i.postimg.cc/XvzWcHhz/Copia-di-Project-Work-Code-Blossom.jpg" width="640" height="480" allow="autoplay"></iframe>
 
-[![Watch the video](https://i.postimg.cc/XvzWcHhz/Copia-di-Project-Work-Code-Blossom.jpg)]([](https://drive.google.com/file/d/14kzPFuBNYelkt_GtWG3i7BNj8Fx60mYp/preview))
-
-
-# Titolo del Progetto
-
-Guarda il nostro video qui sotto:
-
-![Video di esempio](https://drive.google.com/uc?id=14kzPFuBNYelkt_GtWG3i7BNj8Fx60mYp)
+[![Watch the video](https://i.postimg.cc/XvzWcHhz/Copia-di-Project-Work-Code-Blossom.jpg)](https://player.vimeo.com/video/1062093254)
 
 
 
