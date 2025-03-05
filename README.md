@@ -10,9 +10,6 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
 - 🔥 Node.js
 
 
-> Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre.  
-> Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨
-
 ## 🔧 Tecnologie e Strumenti
 
 ### 🌐 Front-end
@@ -45,6 +42,11 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
 ## 📌 Cosa troverai nei miei repository?
 
 ➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻 | [Guarda il video](https://player.vimeo.com/video/1062093254)
+
+> Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre.  
+> Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨
+
+<br/>
 
 ➡️ **Esercizi e sperimentazioni** per approfondire nuove tecnologie 🚧 🛠️ ⏳
 
