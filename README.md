@@ -10,6 +10,8 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
 - 🔥 Node.js
 
 
+> Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre.  
+> Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨
 
 ## 🔧 Tecnologie e Strumenti
 
@@ -50,9 +52,6 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
     <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
 </div>
 
-
-> Credo nell'importanza del confronto 💬 e della collaborazione 👥 per migliorarsi sempre.  
-> Ogni progetto è un'opportunità per imparare qualcosa di nuovo! ✨
 
 ## 📫 Contattami
 Se vuoi scambiare idee o collaborare, sentiti libero/a di scrivermi!
