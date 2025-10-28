@@ -32,7 +32,7 @@
 </div>      
 
 
-📚 In apprendimento
+### 📚 In apprendimento
 - ⚡ TypeScript
 - 🔥 Node.js
 
