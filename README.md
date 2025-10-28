@@ -2,12 +2,6 @@
 
 ![Hello](https://i.postimg.cc/fyZFpWX9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c62.gif)
 
-Ho recentemente seguito un corso di **java developer** su sviluppo web e creazione di servizi **API REST** con **Spring Boot** in Java 👩‍💻 Mi piace dedicarmi allo sviluppo web **full-stack** 💻
-
-📚 Per approfondire lo sviluppo full-stack, attualmente mi sto dedicando:
-- ⚡ TypeScript
-- 🔥 Node.js
-
 
 ## 🔧 Tecnologie e Strumenti
 
@@ -38,6 +32,10 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
 </div>      
 
 
+📚 In apprendimento
+- ⚡ TypeScript
+- 🔥 Node.js
+
 ## 📌 Cosa troverai nei miei repository?
 
 ➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaborazione con le ragazze di Cod(H)er 👩‍💻 | [Guarda il video](https://player.vimeo.com/video/1062093254)
@@ -52,17 +50,4 @@ Ho recentemente seguito un corso di **java developer** su sviluppo web e creazio
 <div style="text-align: center;">
     <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
 </div>
-
-
-## 📫 Contattami
-Se vuoi scambiare idee o collaborare, sentiti libero/a di scrivermi!
-
-<p>
-  <a href="https://t.me/maryparp">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-  </a><br/>
-    <a href="mailto:marypp.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
