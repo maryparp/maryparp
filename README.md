@@ -21,16 +21,22 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
 </div>      
 
-<br><br>
+<br>
 
-### 📚 Learning
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+### Currently Learning 🌱
+
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50" height="50" style="margin-right:10px;"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50" style="margin-right:10px;"/>
 
 <br>
 
-## 📌 Projects
+## 💻 Projects
 
-➡️ **Project Work "[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)"** 🌸 in collaboration with the girls from Cod(H)er 👩‍💻 | [Watch the video](https://player.vimeo.com/video/1062093254)
+➡️ **[BookTrack](https://github.com/GiuseppeRusso14/BookTrack#)** 📚 Python CLI application for booking books in collaboration with a classmate during the "Quality Development" seminar, focusing on **clean, modular code** with **unit tests** and **CI/CD pipelines** to ensure **maintainability and quality**.
+
+
+➡️ **[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)** 🌸 in collaboration with the girls from Cod(H)er 👩‍💻 | [Watch the video](https://player.vimeo.com/video/1062093254)
+
+<br>
 
 > I believe in improving continuously through discussion 💬 and collaboration 👥.
 > 
