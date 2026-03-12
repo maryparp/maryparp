@@ -34,7 +34,7 @@
 ➡️ **[BookTrack](https://github.com/GiuseppeRusso14/BookTrack#)** 📚 **Python CLI application** for booking books in collaboration with a classmate during the "Quality Development" seminar, focusing on **clean, modular code** with **unit tests** and **CI/CD pipelines** to ensure **maintainability and quality**.
 
 
-➡️ **[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)** 🌸 a **web application** built with **Spring Boot** in collaboration with the girls from Cod(H)er 👩‍💻 | [Watch the video](https://player.vimeo.com/video/1062093254)
+➡️ **[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)** 🌸 a **web application** built with **Spring Boot** in collaboration with the girls from Cod(H)er | [Watch the video](https://player.vimeo.com/video/1062093254)
 
 <br>
 
