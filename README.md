@@ -35,7 +35,6 @@
 
 
 ➡️ **[Code Blossom](https://github.com/MiriFranci/code-blossom#-code-blossom-e-commerce-floreale-)** 🌸 a **web application** built with **Spring Boot** in collaboration with the girls from Cod(H)er | [Watch the video](https://player.vimeo.com/video/1062093254)
-
 <br>
 
 > I believe in improving continuously through discussion 💬 and collaboration 👥.
